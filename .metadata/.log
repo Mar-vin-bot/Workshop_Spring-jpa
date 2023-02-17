@@ -104,3 +104,51 @@ Binding(ALT+SHIFT+R,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2023-02-17 17:29:23.549
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:43.759
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:43.760
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1ffe62bf[org.springframework.tooling.boot.ls:1.30.0.202201310805(id=558)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:43.763
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:43.828
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:48.697
+!MESSAGE Boot LS startup time from start to initialized: 4927ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:48.993
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vOjPjSzVisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:48.995
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:48.998
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:48.999
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:48.999
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vOjPjSzV => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:48.999
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:49.008
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:49.009
+!MESSAGE buffering callback sts4.classpath.vOjPjSzV course false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:49.010
+!MESSAGE executing callback sts4.classpath.vOjPjSzV 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-17 17:29:49.595
+!MESSAGE executing callback sts4.classpath.vOjPjSzV SUCCESS [done]
