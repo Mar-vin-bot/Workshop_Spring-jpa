@@ -1,0 +1,13 @@
+package com.educandoweb.course.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+@Configuration
+@Profile("test")
+/*
+ * Classe configuração para pefil de teste. Este perfil foi implementado no aplication.properties
+ */
+public class TestConfig {
+
+}
