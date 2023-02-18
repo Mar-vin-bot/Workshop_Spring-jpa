@@ -10792,3 +10792,57 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:04:16.406
 !MESSAGE executing callback sts4.classpath.TStNivNe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:34:34.321
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TStNivNe
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:34:34.322
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TStNivNe
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:34:34.322
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:34:34.322
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TStNivNe => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:54.762
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:54.762
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1ccded50[org.springframework.tooling.boot.ls:1.30.0.202201310805(id=558)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:54.762
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.534
+!MESSAGE Boot LS startup time from start to initialized: 2771ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.730
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JtKATEckisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.730
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.731
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.731
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.731
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.733
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JtKATEck => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.734
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.735
+!MESSAGE buffering callback sts4.classpath.JtKATEck course false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:57.736
+!MESSAGE executing callback sts4.classpath.JtKATEck 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-18 16:40:58.205
+!MESSAGE executing callback sts4.classpath.JtKATEck SUCCESS [done]
