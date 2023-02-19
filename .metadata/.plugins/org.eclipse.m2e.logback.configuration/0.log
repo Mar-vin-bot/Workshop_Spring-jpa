@@ -1025,3 +1025,52 @@
 2023-02-18 18:20:11,338 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2023-02-18 18:20:11,360 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-02-18 18:20:11,362 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 12:56:10,080 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-19 13:12:47,902 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:12:47,937 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:12:47,942 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:18:08,676 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:18:08,743 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:18:08,760 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:18:57,046 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:18:57,060 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:18:57,065 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:19:21,734 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:19:21,743 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:19:21,759 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:20:05,736 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:20:05,766 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:20:05,778 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:20:25,912 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:20:25,928 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:20:25,941 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:21:03,762 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:21:03,798 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:21:03,803 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:21:21,004 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:21:21,040 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:21:21,049 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:21:38,869 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:21:38,878 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:21:38,881 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:21:48,610 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:21:48,641 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:21:48,643 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:22:05,769 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:22:05,786 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:22:05,789 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:22:21,320 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:22:21,353 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:22:21,357 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:25:10,960 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:25:10,992 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:25:11,000 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:25:24,784 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:25:24,809 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:25:24,812 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:25:57,965 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:25:58,003 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:25:58,010 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
+2023-02-19 13:27:31,726 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-02-19 13:27:31,737 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-19 13:27:31,747 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/m12/Documentos/GitHub/Projeto_WebService-Spring_JPA/course/src/test/resources
