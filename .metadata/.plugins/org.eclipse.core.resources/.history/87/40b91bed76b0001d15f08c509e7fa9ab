@@ -1,0 +1,27 @@
+package com.educandoweb.course.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.educandoweb.course.entities.Order;
+import com.educandoweb.course.repositories.OrderRepositoy;
+
+@Service
+public class CategoryServices {
+
+	@Autowired
+	private OrderRepositoy orderRepositoy;
+
+	public List<Order> findAll() {
+		return orderRepositoy.findAll();
+	}
+
+	public Order findById(Long id) {
+		Optional<Order> obj = orderRepositoy.findById(id);
+		return obj.get();
+	}
+
+}

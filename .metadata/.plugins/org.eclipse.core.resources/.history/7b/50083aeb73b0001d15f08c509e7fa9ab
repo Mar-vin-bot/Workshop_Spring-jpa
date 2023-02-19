@@ -1,0 +1,8 @@
+package com.educandoweb.course.entities;
+
+public class Categoty {
+
+	private Long id;
+	private String name;
+	
+}
