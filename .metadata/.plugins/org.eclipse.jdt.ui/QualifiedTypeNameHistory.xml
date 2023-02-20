@@ -25,13 +25,11 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="jakarta.persistence.ManyToOne"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.JoinColumn"/>
     <fullyQualifiedTypeName name="jakarta.persistence.OneToMany"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.entities.User"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.services.OrderServices"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.repositories.OrderRepositoy"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.entities.Order"/>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat.Shape"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
@@ -47,4 +45,8 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.repositories.ProductRepositoy"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.JoinTable"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToMany"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
 </qualifiedTypeNameHistroy>
