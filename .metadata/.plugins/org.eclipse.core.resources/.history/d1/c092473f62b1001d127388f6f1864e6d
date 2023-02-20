@@ -1,0 +1,8 @@
+package com.educandoweb.course.entities;
+
+public class OrdemItem {
+	
+	private Integer quantity;
+	private Double price;
+
+}

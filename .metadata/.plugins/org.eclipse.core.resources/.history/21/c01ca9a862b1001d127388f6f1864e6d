@@ -1,0 +1,19 @@
+package com.educandoweb.course.entities.PK;
+
+import jakarta.persistence.Embeddable;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+
+@Embeddable
+public class OrderItemPK {
+	
+	@ManyToOne
+	@JoinColumn(name = "order_id")
+	private Integer quantity;
+
+	@ManyToOne
+	@JoinColumn(name = "product_id")
+	private Double price;
+	
+
+}
