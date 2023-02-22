@@ -1,0 +1,13 @@
+package com.educandoweb.course.resource.exceptions;
+
+import java.time.Instant;
+
+public class StandardError extends RuntimeException {
+
+	private Instant timestamp;
+	private Integer status;
+	private String error;
+	private String mensager;
+	private String path;
+	
+}
