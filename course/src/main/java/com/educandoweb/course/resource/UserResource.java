@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -17,31 +18,36 @@ import com.educandoweb.course.entities.User;
 import com.educandoweb.course.services.UserServices;
 
 @RestController
-@RequestMapping(value="/users")
+@RequestMapping(value = "/users")
 public class UserResource {
-	
+
 	@Autowired
 	private UserServices services;
-	
-	
+
 	@GetMapping
-	public ResponseEntity<List<User>> findAll(){
+	public ResponseEntity<List<User>> findAll() {
 		List<User> list = services.findAll();
 		return ResponseEntity.ok().body(list);
 	}
-	
+
 	@GetMapping(value = "/{id}")
-	public ResponseEntity<User> findById(@PathVariable Long id){
+	public ResponseEntity<User> findById(@PathVariable Long id) {
 		User user = services.findById(id);
 		return ResponseEntity.ok().body(user);
 	}
-	
+
 	@PostMapping
-	public ResponseEntity<User> insert(@RequestBody User obj){
+	public ResponseEntity<User> insert(@RequestBody User obj) {
 		obj = services.insert(obj);
 		URI uri = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}")
-				.buildAndExpand(obj.getId()).toUri();	//nedd used created (201)
-		return ResponseEntity.created(uri).body(obj); 
+				.buildAndExpand(obj.getId()).toUri(); // nedd used method return (created 201)																												
+		return ResponseEntity.created(uri).body(obj);
+	}
+
+	@DeleteMapping(value = "/{id}")
+	public ResponseEntity<Void> delete(@PathVariable Long id) {
+		services.delete(id);
+		return ResponseEntity.noContent().build();	//return 204 noContent
 	}
 
 }
