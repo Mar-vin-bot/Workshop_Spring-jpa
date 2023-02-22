@@ -32,4 +32,17 @@ public class UserServices {
 		userRepositoy.deleteById(id);
 	}
 
+	public User update(Long id, User obj) {
+		User aux = userRepositoy.getReferenceById(id);
+		updateData(aux, obj);
+		return userRepositoy.save(aux);
+	}
+
+	private void updateData(User aux, User obj) {
+		aux.setName(obj.getName());
+		aux.setEmail(obj.getEmail());
+		aux.setPhone(obj.getPhone());
+		
+	}
+	
 }
