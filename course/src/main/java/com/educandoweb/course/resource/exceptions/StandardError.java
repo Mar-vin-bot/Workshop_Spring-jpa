@@ -20,7 +20,6 @@ public class StandardError implements Serializable {
 	}
 
 	public StandardError(Instant timestamp, Integer status, String error, String mensager, String path) {
-		super();
 		this.timestamp = timestamp;
 		this.status = status;
 		this.error = error;
